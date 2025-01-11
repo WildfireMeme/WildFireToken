@@ -26,12 +26,7 @@ Wildfire Token aims to ignite change by building a strong, vibrant community ded
 
 - **Ticker:** WFire
 - **Blockchain:** [Specify Blockchain, e.g., Ethereum, Binance Smart Chain, or another]
-- **Total Supply:** [Insert supply]
-- **Initial Distribution:**
-  - Community Fund: [Insert percentage]
-  - Liquidity Pool: [Insert percentage]
-  - Development and Marketing: [Insert percentage]
-  - Reserve for Philanthropic Efforts: [Insert percentage]
+- **Total Supply:** 1 Billion
 
 - **Transaction Fees:**
   - A small percentage of each transaction will contribute to the Wildfire Relief Fund.
